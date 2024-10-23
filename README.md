@@ -1,5 +1,11 @@
 ### Welcome )) 👋
 
+- You may want to take a look at my portfolio [gab.cx](https://gab.cx).
+- I recently made a quantum emulator please take a look at [qe.gab.cx](http://qe.gab.cx).
+
+> [!IMPORTANT]
+> 📫 Feel free to reach out at hi@gab.cx
+
 <!--
 **gabchx/gabchx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
